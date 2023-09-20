@@ -1,0 +1,23 @@
+# 1
+input_dir:  Wi-Fi Scann/Resources
+# 2
+output_dir:  Wi-Fi Scann/Resources/Generated/
+
+strings:
+  inputs: en.lproj/Localizable.strings
+  outputs:
+    - templateName: structured-swift5
+      output: Strings.swift
+## XCAssets
+# 1
+xcassets:
+  # 2
+  inputs:
+    - Assets.xcassets
+    - Colors.xcassets
+  # 3
+  outputs:
+    # 4
+    templateName: swift5
+    # 5
+    output: XCAssets+Generated.swift

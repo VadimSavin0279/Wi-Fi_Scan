@@ -1,0 +1,7 @@
+// - TabBar
+"tabBar.scanner" = "Scanner";
+"tabBar.history" = "History";
+"tabBar.guide" = "Guide";
+"tabBar.magnetic" = "Magnetic";
+"tabBar.settings" = "Settings";
+
