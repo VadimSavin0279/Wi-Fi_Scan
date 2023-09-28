@@ -11,6 +11,7 @@ enum RouterType {
     case rootTab(TabBarType)
     case scanResults
     case guideDescription
+    case alertOptions
 }
 
 extension RouterType: RouterIdentifiable {
@@ -33,6 +34,8 @@ extension RouterType: RouterIdentifiable {
             return .scanResults
         case .guideDescription:
             return .guideDescription
+        case .alertOptions:
+            return .alertOptions
         }
     }
     
@@ -52,6 +55,8 @@ extension RouterType: RouterIdentifiable {
             self = .scanResults
         case .guideDescription:
             self = .guideDescription
+        case .alertOptions:
+            self = .alertOptions
         default:
             fatalError()
         }
@@ -67,4 +72,6 @@ extension String {
     
     static let scanResults = "scan_results"
     static let guideDescription = "guide_description"
+    
+    static let alertOptions = "alert_options"
 }

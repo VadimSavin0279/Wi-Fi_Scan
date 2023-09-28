@@ -21,3 +21,9 @@ xcassets:
     templateName: swift5
     # 5
     output: XCAssets+Generated.swift
+
+json:
+  inputs: Guides.json
+  outputs:
+    templateName: runtime-swift5
+    output: JSON.swift

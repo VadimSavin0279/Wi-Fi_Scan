@@ -21,7 +21,8 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
         guard let windowScene = (scene as? UIWindowScene) else { return }
         window = UIWindow(windowScene: windowScene)
-        window?.rootViewController = NavigationController(rootViewController: MagneticViewController())
+        appCoordinator.configure(routers: [ScanMainRouterImpl(), ScanningHistoryRouter(), GuideRouter(), MagneticRouter(), SettingsRouter()])
+        window?.rootViewController = appCoordinator.tabBar
         window?.makeKeyAndVisible()
     }
 

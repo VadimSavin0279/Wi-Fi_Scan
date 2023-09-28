@@ -5,3 +5,20 @@
 "tabBar.magnetic" = "Magnetic";
 "tabBar.settings" = "Settings";
 
+// - ScanMain
+"scanMain.recheck" = "Recheck";
+"scanMain.start" = "Start";
+"scanMain.results" = "View Results";
+"scanMain.deviceFound" = "Suspicious device found: ";
+"scanMain.WiFiIP" = "Router MAC: ";
+
+"scanMain.progressBar.checking" = "Checking...";
+
+// - Magnetic
+"magnetic.title" = "Magnetic detect";
+"magnetic.detect" = "Detect";
+"magnetic.stop" = "Stop";
+"magnetic.tip" = "Hidden Camera might be have strong magnetic field.";
+
+// - Guide
+"guide.title" = "Guide";

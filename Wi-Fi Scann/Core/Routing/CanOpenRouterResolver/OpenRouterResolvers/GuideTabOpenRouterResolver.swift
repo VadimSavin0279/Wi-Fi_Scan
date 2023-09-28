@@ -17,7 +17,8 @@ fileprivate struct GuideTabResolver: CanOpenScreenRouterResolver {
     func canOpen(router: ScreenRouter, from: ScreenRouter) -> Bool {
         switch RouterType(indentifiable: router.routerIdentifiable) {
         case .rootTab,
-                .scanResults:
+                .scanResults,
+                .alertOptions:
             return false
         case .guideDescription:
             return true

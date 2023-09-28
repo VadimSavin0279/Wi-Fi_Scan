@@ -1,26 +1,26 @@
 //
-//  HistoryTabOpenRouterResolver.swift
-//  FaxApp
+//  ScanResultsOpenRouterResolver.swift
+//  Wi-Fi Scann
 //
-//  Created by Eugene on 12.04.2022.
+//  Created by Вадим on 28.09.2023.
 //
 
 import Foundation
 
 extension CanOpenRouterResolverToken {
-    static var historyTabResolver: CanOpenScreenRouterResolver {
-        HistoryTabResolver()
+    static var scanResultsResolver: CanOpenScreenRouterResolver {
+        ScanResultsOpenRouterResolver()
     }
 }
 
-fileprivate struct HistoryTabResolver: CanOpenScreenRouterResolver {
+fileprivate struct ScanResultsOpenRouterResolver: CanOpenScreenRouterResolver {
     func canOpen(router: ScreenRouter, from: ScreenRouter) -> Bool {
         switch RouterType(indentifiable: router.routerIdentifiable) {
         case .rootTab,
                 .guideDescription,
-                .alertOptions:
+                .scanResults:
             return false
-        case .scanResults:
+        case .alertOptions:
             return true
         }
     }

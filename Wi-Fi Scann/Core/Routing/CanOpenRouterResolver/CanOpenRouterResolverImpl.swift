@@ -19,7 +19,9 @@ struct CanOpenRouterResolverImpl: CanOpenRouterResolver {
             switch RouterType(indentifiable: from.routerIdentifiable) {
             case let .rootTab(tabScreenType):
                 return tabScreenType.canOpenRouterResolver
-            case .scanResults, .guideDescription:
+            case .scanResults:
+                return token.scanResultsResolver
+            case .guideDescription, .alertOptions:
                 return token.falseAlwaysResolver
             }
         }()

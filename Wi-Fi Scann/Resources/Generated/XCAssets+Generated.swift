@@ -30,6 +30,8 @@ internal enum Asset {
     internal static let stopIcon = ImageAsset(name: "stop_icon")
     internal static let recheckScanner = ImageAsset(name: "recheck_scanner")
     internal static let spinnerSanner = ImageAsset(name: "spinner_sanner")
+    internal static let startButton = ImageAsset(name: "start_button")
+    internal static let viewResultsButton = ImageAsset(name: "view_results_button")
     internal static let guideIcon = ImageAsset(name: "guide_icon")
     internal static let historyIcon = ImageAsset(name: "history_icon")
     internal static let magneticIcon = ImageAsset(name: "magnetic_icon")
@@ -38,6 +40,8 @@ internal enum Asset {
   }
   internal enum Colors {
     internal static let greenGradientIndicator = ColorAsset(name: "green_gradient_indicator")
+    internal static let lightGreenIndicator = ColorAsset(name: "light_green_indicator")
+    internal static let orangeIndicator = ColorAsset(name: "orange_indicator")
     internal static let redGradientIndicator = ColorAsset(name: "red_gradient_indicator")
     internal static let yellowGradientIndicator = ColorAsset(name: "yellow_gradient_indicator")
     internal static let gray3C = ColorAsset(name: "gray3C")

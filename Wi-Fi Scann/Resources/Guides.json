@@ -1,0 +1,204 @@
+{
+  "docs": {
+    "Pinhole Camera": [
+      {
+        "title": "Sockets",
+        "text": "Examine the sockets facing the bedside and bathroom. Pinhole cameras may be concealed within the jacks. These cameras typically require a power supply, making these sockets an ideal hiding spot."
+      },
+      {
+        "title": "Air-conditioning",
+        "text": "The air-conditioning port in the room is often a discreet location for hiding a camera since cleaning personnel usually do not thoroughly clean these areas. To check for a hidden pinhole camera:\n- Turn off the room lights.\n- Shine a flashlight on the air-conditioning port.\n- If you notice a bright spot that goes dark when the light is shone upon it, there's a high likelihood that a camera is hidden there."
+      },
+      {
+        "title": "Pictures",
+        "text": "Inspect any hanging pictures in the room. Some pinhole cameras are custom-made to blend in with picture frames, with the lens typically located on the frame's surface. These can often be spotted with the naked eye."
+      },
+      {
+        "title": "TV",
+        "text": "Investigate the area around the TV, especially the side facing the bedside. Pinhole cameras might be discreetly positioned near the TV set."
+      },
+      {
+        "title": "Plants",
+        "text": "Decorations involving potted plants or greenery can provide opportunities for camera concealment. Pay close attention to these decorative elements, as they are frequently used to hide cameras. This is especially common in venues like love hotels, which tend to have numerous decorations."
+      },
+      {
+        "title": "Sofa",
+        "text": "Sofas can also be vulnerable to pinhole camera installation. Some individuals may create a small hole in the sofa and insert the camera, leaving only a tiny black hole as evidence. Examine the upholstery closely for any unusual or suspicious openings."
+      },
+      {
+        "title": "Smoke Alarm",
+        "text": "Smoke alarm cameras often have their lenses hidden inside, making them challenging to detect with a flashlight's reflective point. Be aware that these types of cameras may require more thorough inspection to uncover."
+      },
+      {
+        "title": "",
+        "text": "By following these detailed steps and being vigilant, you can increase your chances of uncovering hidden pinhole cameras in your surroundings. Remember that it's important to respect privacy laws and regulations when conducting such investigations."
+      }
+    ],
+    "Wireless Camera": [
+      {
+        "title": "Detecting Hidden Wireless Cameras and Understanding MAC Addresses",
+        "text": "Wireless cameras can be challenging to detect, but understanding MAC addresses can provide valuable information to uncover hidden devices. MAC (Media Access Control) addresses are unique identifiers for network devices, such as wireless network cards. Here's how to use MAC addresses to help find hidden wireless cameras:"
+      },
+      {
+        "title": "Understanding MAC Addresses",
+        "text": " - MAC addresses consist of 12 hexadecimal characters (0-9 and A-F) and are unique to each network device.\n- The first 3 bytes of a MAC address represent the Organizationally Unique Identifier (OUI), which is assigned to different vendors by the IEEE (Institute of Electrical and Electronics Engineers) registry. This OUI can help identify the manufacturer of the network device.\n- The last 3 bytes of the MAC address are assigned by the device manufacturer themselves, creating a unique identifier for each device.\n- Think of the MAC address as the ID number of the wireless network card."
+      },
+      {
+        "title": "Database Lookup",
+        "text": "- Several online databases and tools allow you to look up the manufacturer information associated with a MAC address. To use this method:\n- Note down the MAC address of any suspicious device or wireless camera you suspect might be hidden.\n- Visit an online MAC address lookup tool or database.\n- Enter the first 3 bytes of the MAC address (OUI) into the database's search field.\n- The database will provide information about the manufacturer or vendor associated with that MAC address."
+      },
+      {
+        "title": " Identifying Suspicious Devices",
+        "text": "By cross-referencing the manufacturer information obtained from the MAC address lookup with the known devices in your environment, you can identify any unfamiliar or potentially hidden wireless cameras."
+      },
+      {
+        "title": "Sweeping for Wireless Signals",
+        "text": "In addition to MAC address identification, consider using a wireless signal detector or scanner to physically locate hidden wireless cameras. These devices can help you detect the presence of wireless signals and narrow down their source."
+      },
+      {
+        "title": "Professional Assistance",
+        "text": "If you are unable to locate hidden wireless cameras on your own, consider seeking professional assistance from a security expert or a technical specialist who can perform a thorough sweep of your premises"
+      },
+      {
+        "title": "",
+        "text": "Understanding MAC addresses and using online databases to identify device manufacturers can be a valuable part of your strategy to detect hidden wireless cameras. Combine this knowledge with physical sweeps and the assistance of professionals for comprehensive security."
+      }
+    ],
+    "Sleep Camera": [
+      {
+        "title": "Sockets",
+        "text": "Carefully inspect the sockets located near the bedside and in the bathroom. Pinhole cameras may be discreetly concealed within these jacks. These cameras often require a power supply, making these sockets an ideal hiding place for capturing footage."
+      },
+      {
+        "title": "Air-conditioning",
+        "text": "The air-conditioning port in the room can serve as a covert hiding spot for a sleep camera, as cleaning personnel generally do not thoroughly clean these areas. To determine whether there's a pinhole camera in the air-conditioning port:\n- Turn off the room lights.\n- Use a flashlight to shine light into the air-conditioning port.\n- If you observe a bright spot that abruptly disappears when the light is shone upon it, there's a strong likelihood that a camera is concealed there."
+      },
+      {
+        "title": "Pictures",
+        "text": "Examine any framed pictures hanging in the room. Some sleep cameras are custom-designed to blend seamlessly with picture frames, typically with the lens situated on the frame's surface. These cameras are often visible to the naked eye upon close inspection."
+      },
+      {
+        "title": "TV",
+        "text": "Investigate the area around the TV, especially the side facing the bedside. A sleep camera might be surreptitiously placed near the television, so be thorough in your examination."
+      },
+      {
+        "title": "Plants",
+        "text": "Decorative potted plants and greenery can provide opportunities for camera concealment. Pay close attention to these decorative elements, as they are commonly used to hide sleep cameras. This is particularly prevalent in establishments like love hotels, which tend to have numerous decorative features."
+      },
+      {
+        "title": "Sofa",
+        "text": "Sofas can also be susceptible to sleep camera embedding. Some individuals may create a small hole in the sofa and insert the camera, leaving only a tiny black hole as evidence. Be sure to scrutinize the upholstery for any unusual or suspicious openings."
+      },
+      {
+        "title": "Smoke Alarm",
+        "text": "Smoke alarm cameras typically have their lenses hidden inside, making them challenging to detect with a flashlight's reflective point. Detection of such cameras may require more comprehensive investigation."
+      },
+      {
+        "title": "",
+        "text": "By following these detailed steps and remaining vigilant, you can increase your chances of discovering hidden sleep cameras in your surroundings. Remember to respect privacy laws and regulations when conducting such investigations."
+      }
+    ],
+    "Infrared Camera": [
+      {
+        "title": "Detecting Hidden Infrared Cameras",
+        "text": "Hidden infrared cameras can be challenging to identify, but you can use your mobile phone's camera to detect their presence. Infrared cameras rely on infrared light to capture images, especially in low-light or nighttime conditions. Here's how to use your mobile phone to detect hidden infrared cameras"
+      },
+      {
+        "title": "Understanding Infrared Cameras",
+        "text": "Infrared cameras are designed to capture images in low-light or nighttime conditions by utilizing infrared light. They are often used for security and surveillance purposes"
+      },
+      {
+        "title": "Detecting Infrared Light",
+        "text": "- In a dark or low-light environment, infrared cameras emit infrared light that is invisible to the human eye but can be detected by the camera sensor on a mobile phone.\n- When you suspect the presence of an infrared camera, ensure the room is as dark as possible for better detection results."
+      },
+      {
+        "title": "Using Your Mobile Phone",
+        "text": "To detect hidden infrared cameras, follow these steps:\n- Turn off all the lights in the room to create as dark an environment as possible.\n- Allow your eyes to adjust to the darkness for a few moments.\n- Take your mobile phone and open the camera app.\n- Slowly scan the room with your mobile phone's camera while looking at the phone's screen.\n- Infrared light emitted by the hidden camera will appear as a faint, purplish or bluish glow on your phone's screen, making it visible to you."
+      },
+      {
+        "title": "Identifying Suspicious Areas",
+        "text": "Pay close attention to areas of the room where you suspect a hidden camera might be located. Infrared cameras are often discreetly placed in corners, near valuable items, or in strategic positions for surveillance."
+      },
+      {
+        "title": "Testing Different Lighting Conditions",
+        "text": "- Keep in mind that the effectiveness of this method depends on the lighting conditions. The darker the room, the easier it is to spot the infrared light emitted by the camera.\n- You can also try this method at different times of day or night to account for variations in ambient lighting."
+      },
+      {
+        "title": "Professional Assistance",
+        "text": "If you are unable to detect hidden infrared cameras on your own or have concerns about privacy, consider seeking professional assistance from a security expert or technician who can perform a thorough sweep of your premises."
+      },
+      {
+        "title": "",
+        "text": "By following these detailed steps and using your mobile phone to detect infrared light, you can increase your chances of finding hidden infrared cameras in your surroundings, enhancing your security and peace of mind."
+      }
+    ],
+    "Wired Camera": [
+      {
+        "title": "Sockets",
+        "text": "Carefully inspect the sockets located near the bedside and in the bathroom. Wired cameras may be concealed within these jacks. These cameras typically require a power supply, making these sockets an ideal location for surveillance."
+      },
+      {
+        "title": "Air-conditioning",
+        "text": "The air-conditioning port in the room is often used as a covert hiding spot for cameras because cleaning personnel generally do not thoroughly clean these areas. To determine whether there's a wired camera in the air-conditioning port:\n- Turn off the room lights.\n- Use a flashlight to illuminate the air-conditioning port.\n- If you notice a bright spot that suddenly disappears when the light is shone upon it, there's a high likelihood of a camera being hidden there."
+      },
+      {
+        "title": "Pictures",
+        "text": "Examine any framed pictures hanging in the room. Some wired cameras are custom-designed to blend seamlessly with picture frames, with the lens typically situated on the frame's surface. These cameras can often be visible to the naked eye upon close inspection."
+      },
+      {
+        "title": "TV",
+        "text": "Investigate the area around the TV, especially the side facing the bedside. A wired camera might be discreetly placed near the television for surveillance purposes, so be thorough in your examination."
+      },
+      {
+        "title": "Plants",
+        "text": "Decorative potted plants and greenery can provide opportunities for camera concealment. Pay close attention to these decorative elements, as they are commonly used to hide wired cameras. This is especially prevalent in venues like love hotels, which tend to have numerous decorative features."
+      },
+      {
+        "title": "Sofa",
+        "text": "Sofas can also be vulnerable to wired camera embedding. Some individuals may create a small hole in the sofa and insert the camera, leaving only a tiny black hole as evidence. Be sure to scrutinize the upholstery for any unusual or suspicious openings."
+      },
+      {
+        "title": "Smoke Alarm",
+        "text": "Smoke alarm cameras often have their lenses hidden inside, making them challenging to detect with a flashlight's reflective point. Detecting such cameras may require more comprehensive investigation and potentially professional assistance."
+      },
+      {
+        "title": "",
+        "text": "By following these detailed steps and remaining vigilant, you can increase your chances of discovering hidden wired cameras in your surroundings. Always remember to respect privacy laws and regulations when conducting such investigations."
+      }
+    ],
+    "Others": [
+      {
+        "title": "Sockets",
+        "text": "Examine the sockets facing the bedside and bathroom. Pinhole cameras may be concealed within the jacks. These cameras typically require a power supply, making these sockets an ideal hiding spot."
+      },
+      {
+        "title": "Air-conditioning",
+        "text": "The air-conditioning port in the room is often a discreet location for hiding a camera since cleaning personnel usually do not thoroughly clean these areas. To check for a hidden pinhole camera:\n- Turn off the room lights.\n- Shine a flashlight on the air-conditioning port.\n- If you notice a bright spot that goes dark when the light is shone upon it, there's a high likelihood that a camera is hidden there."
+      },
+      {
+        "title": "Pictures",
+        "text": "Examine any framed pictures hanging in the room. Some wired cameras are custom-designed to blend seamlessly with picture frames, with the lens typically situated on the frame's surface. These cameras can often be visible to the naked eye upon close inspection."
+      },
+      {
+        "title": "TV",
+        "text": "Investigate the area around the TV, especially the side facing the bedside. Pinhole cameras might be discreetly positioned near the TV set."
+      },
+      {
+        "title": "Plants",
+        "text": "Decorations involving potted plants or greenery can provide opportunities for camera concealment. Pay close attention to these decorative elements, as they are frequently used to hide cameras. This is especially common in venues like love hotels, which tend to have numerous decorations."
+      },
+      {
+        "title": "Sofa",
+        "text": "Sofas can also be vulnerable to pinhole camera installation. Some individuals may create a small hole in the sofa and insert the camera, leaving only a tiny black hole as evidence. Examine the upholstery closely for any unusual or suspicious openings."
+      },
+      {
+        "title": "Smoke Alarm",
+        "text": "Smoke alarm cameras often have their lenses hidden inside, making them challenging to detect with a flashlight's reflective point. Be aware that these types of cameras may require more thorough inspection to uncover."
+      },
+      {
+        "title": "",
+        "text": "By following these detailed steps and being vigilant, you can increase your chances of uncovering hidden pinhole cameras in your surroundings. Remember that it's important to respect privacy laws and regulations when conducting such investigations."
+      }
+    ]
+  }
+}
